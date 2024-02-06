@@ -1,0 +1,28 @@
+https://docs.google.com/document/d/1Zc9efKRxj0_uziAAc_slknwplclHhdskpOhFejFe-nI/edit
+
+Assignment Problems : 
+Given a number N, write a program to calculate factorial(N).
+Given a number N, write a program to print numbers from 1…N.
+Given a string S, write a program to reverse it.
+Given a number N, write a program to calculate Fibonacci(N).
+Given three numbers a, b & m, Write a program to calculate ab % m.
+Given two numbers a and b, calculate GCD(a, b).
+Given three number n, r  & m, Write a program to calculate nCr % m.
+Given a number in decimal, Write a program to print its binary form.
+Given a string, remove duplicate adjacent from that string , example “aabcccdeed” should become “abcded” i.e, if there are some duplicate characters together then only keep one of them.
+Given a string, calculate the length of the string.
+Given a string , check if the given string is a palindrome or not.
+Given a number, calculate the sum of its digits.
+Given an array and a number, count all occurrences of that number in the array.
+
+Reference Material : 
+Topcoder - Recursion 1
+Topcoder - Recursion 2
+
+Extra practice Problems : 
+HE - Recursive function  - Simple implementation based problem
+CC - The Deadly Sin       - Easy problem, try to calculate and prove the Time complexity  
+HR - Recursive Digit sum	- Similar to calculate the sum of digits
+HR - Sherlock and GCD      - Think in terms of GCD
+CF - Code For 1  - One of my fav problem on recursion
+CC - KCHAR      -  Similar to Problem 5 (attempt after solving Code For 1)
